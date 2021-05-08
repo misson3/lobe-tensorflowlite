@@ -3,7 +3,7 @@ codes for jkd-web article
 
 May09, 2021
 
-うちの実験的Web: Microsoft lobeで機械学習：[得られたtfliteモデルを使ってRaspberry pi上でLegoブロックの分類をする]()
+うちの実験的Web: Microsoft lobeで機械学習：[得られたtfliteモデルを使ってRaspberry pi上でLegoブロックの分類をする](https://makeintoshape.com/microsoft-lobe-tfliteraspberry-pi/)
 
 - buildDatasets.py
 
